@@ -43,7 +43,7 @@ pip install -r requirements.txt
 The dashboard below visualizes key insights derived from the analysis.
 
 
-![Dashboard Preview]([https://github.com/HadeelAls618/Sales-Analysis-and-Optimization-Project/blob/main/documents/Dashboard/sales_dashbored.png])
+!https://github.com/HadeelAls618/Sales-Analysis-and-Optimization-Project/blob/main/documents/Dashboard/sales_dashbored.png
 
 
 
