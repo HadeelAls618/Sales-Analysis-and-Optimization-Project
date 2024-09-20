@@ -7,7 +7,6 @@ This project focuses on the analysis and optimization of sales across multiple r
 ### **Data-Driven Insights and Solutions**
 You can find the detailed insights and data-driven solutions [here](documents/Data_driven_solution/Insights.md).
 
----
 
 ### **Project Structure**
 
@@ -17,28 +16,25 @@ You can find the detailed insights and data-driven solutions [here](documents/Da
 
 To use or reproduce this project, follow these steps:
 
-1. **Clone the repository**:
+* 1. **Clone the repository**:
 
    git clone https://github.com/HadeelAls618/Sales-Analysis-and-Optimization-Project.git
+
    cd Sales-Analysis-and-Optimization-Project
 
-2. **Install Dependencies**:
-
-To install the required Python packages using the `requirements.txt` file, run the following command:
+* 2. **Install Dependencies**:
 
 pip install -r requirements.txt
 
 
-3. **Explore the EDA and Statistical Analysis**:
+* 3. **Explore the EDA and Statistical Analysis**:
    - Run the `notebooks/EDA.ipynb` notebook to explore the data and perform statistical analysis.
 
-4. **Execute the Data Cleaning and Model Training Scripts**:
-   - You can run the data cleaning and model building scripts located in the `scripts/` folder. Example:
+* 4. **Execute the Data Cleaning and Model Training Scripts**:
    
    python scripts/data_cleaning.py
    python scripts/model_building.py
 
-### **View the Dashboard**
 
 The dashboard below visualizes key insights derived from the analysis.
 
