@@ -16,7 +16,7 @@ You can find the detailed insights and data-driven solutions [here](documents/Da
 
 To use or reproduce this project, follow these steps:
 
-* 1. **Clone the repository**:
+*   **1-Clone the repository**:
 
    git clone https://github.com/HadeelAls618/Sales-Analysis-and-Optimization-Project.git
 
