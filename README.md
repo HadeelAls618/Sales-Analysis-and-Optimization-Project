@@ -12,17 +12,17 @@ You can find the detailed insights and data-driven solutions [here](documents/Da
 
 - **sales-optimization-project/**
   - **data/**                         
-    - **dataset/**                                           
+     **dataset/**                                           
   - **documents/**                     
-    - **Dashboard/**                   
-    - **Data_driven_solution/**        
-      - **Insights.md**                
+     **Dashboard/**                   
+    **Data_driven_solution/**        
+       **Insights.md**                
   - **notebooks/**                     
-    - **EDA.ipynb**                    
+     **EDA_and_statistical_analysis.ipynb**                    
   - **scripts/**                       
-    - **data_cleaning.py**             
-    - **model_building.py**            
-    - **explainability.py**            
+     **data_cleaning.py**             
+     **model_building.py**            
+     **explainability.py**            
   - **README.md**                      
   - **requirements.txt**               
   - **LICENSE**                        
