@@ -22,15 +22,15 @@ To use or reproduce this project, follow these steps:
 
    cd Sales-Analysis-and-Optimization-Project
 
-* 2. **Install Dependencies**:
+*  **2-Install Dependencies**:
 
 pip install -r requirements.txt
 
 
-* 3. **Explore the EDA and Statistical Analysis**:
+*  **3-Explore the EDA and Statistical Analysis**:
    - Run the `notebooks/EDA.ipynb` notebook to explore the data and perform statistical analysis.
 
-* 4. **Execute the Data Cleaning and Model Training Scripts**:
+*  **4-Execute the Data Cleaning and Model Training Scripts**:
    
    python scripts/data_cleaning.py
    python scripts/model_building.py
