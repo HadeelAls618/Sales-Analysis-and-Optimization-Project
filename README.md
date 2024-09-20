@@ -10,6 +10,23 @@ You can find the detailed insights and data-driven solutions [here](documents/Da
 
 ### **Project Structure**
 
+- **sales-optimization-project/**
+  - **data/**                          # Data storage
+    - **raw/**                         # Raw, unprocessed data
+    - **processed/**                   # Cleaned and processed data
+  - **documents/**                     # Documentation and reports
+    - **Dashboard/**                   # Dashboard files for insights visualization
+    - **Data_driven_solution/**        # Insights and recommendations
+      - **Insights.md**                # Markdown file containing insights and solutions
+  - **notebooks/**                     # Jupyter notebooks for analysis
+    - **EDA.ipynb**                    # Exploratory Data Analysis and statistical analysis
+  - **scripts/**                       # Python scripts for data processing and modeling
+    - **data_cleaning.py**             # Data cleaning and preprocessing functions
+    - **model_building.py**            # Model training and evaluation functions
+    - **explainability.py**            # LIME-based model explainability
+  - **README.md**                      # Project description and instructions
+  - **requirements.txt**               # Required Python libraries
+  - **LICENSE**                        # License for the project
 
 
 ### **Usage Instructions**
@@ -32,8 +49,8 @@ pip install -r requirements.txt
 
 *  **4-Execute the Data Cleaning and Model Training Scripts**:
    
-   python scripts/data_cleaning.py
-   python scripts/model_building.py
+   scripts/data_cleaning.py
+   scripts/model_building.py
 
 
 The dashboard below visualizes key insights derived from the analysis.
