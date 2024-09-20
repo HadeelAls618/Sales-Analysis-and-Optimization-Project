@@ -12,7 +12,6 @@ You can find the detailed insights and data-driven solutions [here](documents/Da
 
 The repository is organized into the following directories:
 
-```bash
 sales-optimization-project/
 │
 ├── data/                           # Data storage
