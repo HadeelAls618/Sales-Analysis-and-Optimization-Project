@@ -12,7 +12,7 @@ This project focuses on the analysis and optimization of sales across multiple r
 
 - **Machine Learning Models**: Train models to predict sales performance based on historical data, allowing for more informed decision-making.
 
-- **Actionable Insights**: Transform raw data into meaningful business insights that help optimize store performance  [here](documents/Data_driven_solution/Insights.md).
+- **Actionable Insights**: Convert raw data into strategic business recommendations that empower stakeholders to make informed decisions and drive store performance optimization.  [here](documents/Data_driven_solution/Insights.md).
 
 - **Sales Dashboard**: Visualize key performance indicators (KPIs) and trends in an easy-to-understand dashboard format.
 
