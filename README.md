@@ -21,15 +21,16 @@ To understand the project steps in a more engaging, story-driven format, visit o
   
 ## How to Run the Project
 1. **Clone the repository**
-   ```
+```
  git clone https://github.com/yourusername/sales-optimization-project.git ```
  cd sales-optimization-project
-    ``` 
+``` 
 
-2. **Install dependencies**
+3. **Install dependencies**
 
-   ``` pip install -r requirements.txt
-   ``` 
+```
+ pip install -r requirements.txt
+ ``` 
    
 3.**Run the analysis**
 Open and run the Jupyter notebook ```notebooks/EDA_and_statistical_analaysis.ipynb``` for Exploratory Data Analysis and Statistical Analysis.
