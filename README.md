@@ -3,7 +3,8 @@
 
 ### **Overview**
 This project applies data-driven techniques to analyze and optimize sales across multiple retail stores. By identifying key factors affecting sales performance, we developed actionable insights and provided strategies to enhance revenue and improve overall store efficiency. The project covers the entire data lifecycle, including data cleaning, exploratory data analysis (EDA), machine learning model building, and the generation of actionable insights based on data analysis.
-To understand the project steps in a more engaging, story-driven format, visit our Medium site.
+To understand the project steps in a more engaging, story-driven format, visit our [Medium site](https://medium.com/tech-tales-business-trails/how-machine-learning-transformed-a-retail-chain-part-1-uncovering-insights-b3df8d236052)
+
 
 ## project steps
 
@@ -19,20 +20,20 @@ To understand the project steps in a more engaging, story-driven format, visit o
 - **Sales Dashboard**: Developed a dashboard to visualize key performance indicators (KPIs) and sales trends in a user-friendly format, enabling stakeholders to make data-driven decisions [here](documents/Dashboard/sales_dashbored.png).
   
 ## How to Run the Project
-1. Clone the repository
+1. **Clone the repository**
    
 ``` git clone https://github.com/yourusername/sales-optimization-project.git ```
-cd sales-optimization-project
+``` cd sales-optimization-project``` 
 
-3. Install dependencies
+2. **Install dependencies**
 
-   pip install -r requirements.txt
+   ``` pip install -r requirements.txt``` 
    
-3.Run the analysis
+3.**Run the analysis**
 Open and run the Jupyter notebook notebooks/EDA_and_statistical_analaysis.ipynb for Exploratory Data Analysis and Statistical Analysis.
 
-4.Execute the data cleaning and model training scripts in the scripts/ directory
-
+4.**Execute the data cleaning and model training scripts in the scripts/ directory**
+``` 
 python scripts/data_cleaning.py
 python scripts/model_building.py
-
+``` 
