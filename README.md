@@ -21,27 +21,28 @@ To understand the project steps in a more engaging, story-driven format, visit o
 ## Project Structure
 (```bash) 
 sales-optimization-project/
-│
-├── data/                           # Data storage
+|
+├── data/
 │   ├── raw/                        # Raw, unprocessed data
 │   └── processed/                  # Cleaned and processed data
-│
-├── documents/                      # Documentation and reports
+|
+├── documents/
 │   ├── Dashboard/                  # Dashboard files for insights visualization
-│   └── Data_driven_solution/       # Insights and recommendations
+│   └── Data_driven_solution/
 │       └── Insights.md             # Markdown file containing insights and solutions
-│
-├── notebooks/                      # Jupyter notebooks for analysis
+|
+├── notebooks/
 │   └── EDA.ipynb                   # Exploratory Data Analysis and statistical analysis
-│
-├── scripts/                        # Python scripts for data processing and modeling
+|
+├── scripts/
 │   ├── data_cleaning.py            # Data cleaning and preprocessing functions
 │   ├── model_building.py           # Model training and evaluation functions
 │   └── explainability.py           # LIME-based model explainability
-│
+|
 ├── README.md                       # Project description and instructions
 ├── requirements.txt                # Required Python libraries
 └── LICENSE                         # License for the project
+
 (bash```) 
 
 
