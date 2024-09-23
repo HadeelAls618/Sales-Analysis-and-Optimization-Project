@@ -5,7 +5,7 @@
 This project applies data-driven techniques to analyze and optimize sales across multiple retail stores. By identifying key factors affecting sales performance, we developed actionable insights and provided strategies to enhance revenue and improve overall store efficiency. The project covers the entire data lifecycle, including data cleaning, exploratory data analysis (EDA), machine learning model building, and the generation of actionable insights based on data analysis.
 To understand the project steps in a more engaging, story-driven format, visit our Medium site.
 
-## Key Features
+## project steps
 
 - **Data Cleaning and Preprocessing**: Processed and prepared raw sales data by handling missing values, correcting inconsistencies, and transforming categorical data, ensuring high data quality for further analysis.
   
@@ -21,7 +21,7 @@ To understand the project steps in a more engaging, story-driven format, visit o
 ## How to Run the Project
 1. Clone the repository
    
-git clone https://github.com/yourusername/sales-optimization-project.git
+``` git clone https://github.com/yourusername/sales-optimization-project.git ```
 cd sales-optimization-project
 
 3. Install dependencies
