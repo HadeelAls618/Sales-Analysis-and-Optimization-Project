@@ -22,8 +22,8 @@ To understand the project steps in a more engaging, story-driven format, visit o
 ## How to Run the Project
 1. **Clone the repository**
 ```
- git clone https://github.com/yourusername/sales-optimization-project.git 
- cd sales-optimization-project
+ git clone https://github.com/HadeelAls618/Sales-Analysis-and-Optimization-Project.git 
+ cd Sales-Analysis-and-Optimization-Project
 ``` 
 
 2. **Install dependencies**
