@@ -16,9 +16,31 @@ To understand the project steps in a more engaging, story-driven format, visit o
 
   - **Actionable Insights and Strategic Recommendations**: Derived key insights from the data and provided strategic recommendations to optimize store performance, improving decision-making and focusing resources where they matter most. [here](documents/Data_driven_solution/Insights.md).
 
-- **Sales Dashboard**: Developed a dashboard to visualize key performance indicators (KPIs) and sales trends in a user-friendly format, enabling stakeholders to make data-driven decisions [here](documents/Data_driven_solution/Insights.md).
-
+- **Sales Dashboard**: Developed a dashboard to visualize key performance indicators (KPIs) and sales trends in a user-friendly format, enabling stakeholders to make data-driven decisions [here](documents/Dashboard/sales_dashbored.png).
+- 
 ## Project Structure
+sales-optimization-project/
+│
+├── data/                           # Data storage
+│   ├── raw/                        # Raw, unprocessed data
+│   └── processed/                  # Cleaned and processed data
+│
+├── documents/                      # Documentation and reports
+│   ├── Dashboard/                  # Dashboard files for insights visualization
+│   └── Data_driven_solution/       # Insights and recommendations
+│       └── Insights.md             # Markdown file containing insights and solutions
+│
+├── notebooks/                      # Jupyter notebooks for analysis
+│   └── EDA.ipynb                   # Exploratory Data Analysis and statistical analysis
+│
+├── scripts/                        # Python scripts for data processing and modeling
+│   ├── data_cleaning.py            # Data cleaning and preprocessing functions
+│   ├── model_building.py           # Model training and evaluation functions
+│   └── explainability.py           # LIME-based model explainability
+│
+├── README.md                       # Project description and instructions
+├── requirements.txt                # Required Python libraries
+└── LICENSE                         # License for the project
 
 
 
