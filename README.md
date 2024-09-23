@@ -19,6 +19,7 @@ To understand the project steps in a more engaging, story-driven format, visit o
 - **Sales Dashboard**: Developed a dashboard to visualize key performance indicators (KPIs) and sales trends in a user-friendly format, enabling stakeholders to make data-driven decisions [here](documents/Dashboard/sales_dashbored.png).
   
 ## Project Structure
+'''
 sales-optimization-project/
 │
 ├── data/                           # Data storage
@@ -41,7 +42,7 @@ sales-optimization-project/
 ├── README.md                       # Project description and instructions
 ├── requirements.txt                # Required Python libraries
 └── LICENSE                         # License for the project
-
+'''
 
 
 
