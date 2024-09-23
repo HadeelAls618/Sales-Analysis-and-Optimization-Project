@@ -22,11 +22,11 @@ To understand the project steps in a more engaging, story-driven format, visit o
 ## How to Run the Project
 1. **Clone the repository**
 ```
- git clone https://github.com/yourusername/sales-optimization-project.git ```
+ git clone https://github.com/yourusername/sales-optimization-project.git 
  cd sales-optimization-project
 ``` 
 
-3. **Install dependencies**
+2. **Install dependencies**
 
 ```
  pip install -r requirements.txt
