@@ -1,5 +1,5 @@
 
-# **Sales Analysis and Optimization Project**
+# **Sales Analysis and Optimization**
 
 ### **Overview**
 This project applies data-driven techniques to analyze and optimize sales across multiple retail stores. By identifying key factors affecting sales performance, we developed actionable insights and provided strategies to enhance revenue and improve overall store efficiency. The project covers the entire data lifecycle, including data cleaning, exploratory data analysis (EDA), machine learning model building, and the generation of actionable insights based on data analysis.
@@ -23,5 +23,5 @@ To understand the project steps in a more engaging, story-driven format, visit o
 
    ## Contact
 If you have any questions or would like to discuss this project further, feel free to reach out!
-* [LinkedIn](https://www.linkedin.com/in/hadeel-als-0a23702a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ) 
+* [LinkedIn](https://www.linkedin.com/in/hadeel-als) 
 * [Email](alsadonhadeel@gmail.com) 
