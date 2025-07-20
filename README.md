@@ -3,8 +3,6 @@
 
 ### **Overview**
 This project applies data-driven techniques to analyze and optimize sales across multiple retail stores. By identifying key factors affecting sales performance, we developed actionable insights and provided strategies to enhance revenue and improve overall store efficiency. The project covers the entire data lifecycle, including data cleaning, exploratory data analysis (EDA), machine learning model building, and the generation of actionable insights based on data analysis.
-To understand the project steps in a more engaging, story-driven format, visit our [Medium site](https://medium.com/tech-tales-business-trails/how-machine-learning-transformed-a-retail-chain-part-1-uncovering-insights-b3df8d236052)
-
 
 ## project steps
 
