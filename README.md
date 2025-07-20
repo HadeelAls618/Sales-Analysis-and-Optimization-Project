@@ -4,7 +4,7 @@
 ### **Overview**
 This project applies data-driven techniques to analyze and optimize sales across multiple retail stores. By identifying key factors affecting sales performance, we developed actionable insights and provided strategies to enhance revenue and improve overall store efficiency. The project covers the entire data lifecycle, including data cleaning, exploratory data analysis (EDA), machine learning model building, and the generation of actionable insights based on data analysis.
 
-## project steps
+## Project steps
 
 - **Data Cleaning and Preprocessing**: Processed and prepared raw sales data by handling missing values, correcting inconsistencies, and transforming categorical data, ensuring high data quality for further analysis.
   
